@@ -1,0 +1,2 @@
+C:\Users\LENOVO\source\repos\EDApp\EDApp\obj\Debug\EDApp.njsprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\EDApp\EDApp\bin\Microsoft.NodejsTools.WebRole.dll
